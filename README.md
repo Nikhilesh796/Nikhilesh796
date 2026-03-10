@@ -47,7 +47,7 @@ View all [13 repositories](https://github.com/Nikhilesh796?tab=repositories) on 
 ## 🤟 Connect With Me
 
 - **LinkedIn:** [Nikhilesh](https://linkedin.com/in/nikhilesh237)
-- **Portfolio:** [View Portfolio](https://github.com/Nikhilesh796/Portfolio)
+- **Portfolio:** [View Portfolio](https://nikhilesh-profile.netlify.app/)
 - **Email:** nikhilesh796@gmail.com
 
 ## 💡 What I'm Learning
